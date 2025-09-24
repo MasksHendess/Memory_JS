@@ -1,0 +1,21 @@
+{
+    "name": "Mememory",
+    "short_name" : "Mememoryshort",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000000",
+    "orientation": "landscape-primary",
+    "icons": [
+        {
+            "src": "/icons/wooper.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/wooperbig.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
